@@ -9,7 +9,7 @@
 
 # dependencies
 /backend/node_modules
-/frontend/blog/node_modules
+# /frontend/blog/node_modules
 
 #pasta
 /frontend2
